@@ -1,0 +1,51 @@
+body{
+    background-color: aliceblue;
+    color: darkblue;
+}
+hr{
+    width: 70%;
+    justify-content: center;
+}
+.alcim, a{
+    color: crimson;
+}
+.kep1szelesseg{
+    width: 230px;
+    height: 153px;
+    border: 1px solid black;
+}
+.fotable{
+    width: 400px;
+    margin: 0 auto;
+}
+.kep2szelesseg{
+    width: 250px;
+    height: 153px;
+    float: right;
+    border: 1px solid black;
+}
+.cimkep{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.rendszertantable{
+    width: 500px;
+    border: none;
+    margin: 0 auto;
+}
+td{
+    padding: 6px;
+}
+.elsoszel{
+    width: 240px;
+    text-align: right;
+}
+.kozep{
+    text-align: center;
+
+}
+.cimek{
+    background-color: crimson;
+    color: aliceblue;
+}
